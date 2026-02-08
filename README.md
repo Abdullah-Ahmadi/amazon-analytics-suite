@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/language-Python-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/Abdullah-Ahmadi/amazon-analytics-suite)](./LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Abdullah-Ahmadi/amazon-analytics-suite)](https://github.com/Abdullah-Ahmadi/amazon-analytics-suite/commits/main)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-blueviolet)](#)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Abdullah-Ahmadi/amazon-analytics-suite/pulls)
 [![Fiverr Ready](https://img.shields.io/badge/Fiverr-Ready-1dbf73?logo=fiverr&logoColor=white)](https://www.fiverr.com/abdullah_ahmadi)
 <!-- Swap the link above for your actual Fiverr profile URL if needed -->
 
