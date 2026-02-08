@@ -3,18 +3,25 @@
 [![Python](https://img.shields.io/badge/language-Python-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/Abdullah-Ahmadi/amazon-analytics-suite)](./LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Abdullah-Ahmadi/amazon-analytics-suite)](https://github.com/Abdullah-Ahmadi/amazon-analytics-suite/commits/main)
-[![Stars](https://img.shields.io/github/stars/Abdullah-Ahmadi/amazon-analytics-suite?style=social)](https://github.com/Abdullah-Ahmadi/amazon-analytics-suite/stargazers)
+[![Fiverr Ready](https://img.shields.io/badge/Fiverr-Ready-1dbf73?logo=fiverr&logoColor=white)](https://www.fiverr.com/abdullah_ahmadi)
+<!-- Swap the link above for your actual Fiverr profile URL if needed -->
 
 > **Unleash actionable insights from your Amazon business with a powerful modular Python suite. Transform dull CSVs into professional Excel dashboards - faster, smarter, effortlessly.**
+
+---
+
+**Developed by Abdulla Ahmadi — Software Engineer and Automation Developer**
+
+---
 
 ## 🛠️ Project Overview
 
 **Amazon Analytics Suite** is your go-to solution for converting Amazon CSV reports into visually compelling Excel analytics dashboards. Whether you're an FBA seller, brand manager, or consultant, our tool brings clarity and actionable intelligence right to your fingertips.
 
-- ✅ **Modular design:** Easy to expand and customize.
-- ✅ **Automated workflows:** From data loading to dashboard generation with minimal manual effort.
-- ✅ **Professional output:** Generate dynamic Excel dashboards and alerts that stand out.
-- ✅ **Sample data included:** Try it out instantly, even if you don’t have your own Amazon CSVs yet.
+- **Modular design:** Easy to expand and customize.
+- **Automated workflows:** From data loading to dashboard generation with minimal manual effort.
+- **Professional output:** Generate dynamic Excel dashboards and alerts that stand out.
+- **Sample data included:** Try it out instantly, even if you don’t have your own Amazon CSVs yet.
 
 ## 🚀 Why Use Amazon Analytics Suite?
 
@@ -95,10 +102,6 @@ Love analytics and Amazon data? Contributions are welcome!
 - Bug reports, feature requests, and pull requests appreciated.
 - Before starting, check the [issues](https://github.com/Abdullah-Ahmadi/amazon-analytics-suite/issues) or open up a discussion.
 
-## 👨‍💻 Author
-Abdulla Ahmadi
-Software Engineer & Automation Developer
-
 ## 📝 License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
@@ -106,3 +109,11 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 ---
 
 **Amazon Analytics Suite** — Because your business deserves smarter data and dashboards.
+
+---
+
+### 👨‍💻 Author
+
+**Abdulla Ahmadi**  
+Software Engineer & Automation Developer  
+[GitHub](https://github.com/Abdullah-Ahmadi) &nbsp;|&nbsp; [Fiverr](https://www.fiverr.com/abdullah_ahmadi)
